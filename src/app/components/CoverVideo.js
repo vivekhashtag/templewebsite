@@ -22,17 +22,17 @@ export default function CoverVideo() {
         loop
         className="w-full h-auto object-cover"
       />
-      <div className="absolute bottom-4 left-4 flex gap-4">
+      <div className="absolute bottom-4 left-4 flex flex-col sm:flex-row gap-2 sm:gap-4">
         <button
           onClick={toggleMute}
-          className="bg-white text-black px-4 py-2 rounded shadow"
+          className="bg-white text-black px-3 py-1 sm:px-4 sm:py-2 text-sm sm:text-base rounded shadow"
         >
           {muted ? "Unmute Mantra" : "Mute Mantra"}
         </button>
         <a
           href="/home/mantra.mpeg"
           download
-          className="bg-green-500 text-white px-4 py-2 rounded shadow"
+          className="bg-green-500 text-white px-3 py-1 sm:px-4 sm:py-2 text-sm sm:text-base rounded shadow"
         >
           Download Mantra
         </a>

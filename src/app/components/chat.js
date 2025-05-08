@@ -135,7 +135,9 @@ export default function ChatWidget() {
                   />
                 </svg>
               </div>
-              <h3 className="font-medium text-lg">Divine Assistant</h3>
+              <h3 className="font-medium text-lg text-amber-50">
+                Divine Assistant
+              </h3>
             </div>
 
             {/* Messages area */}

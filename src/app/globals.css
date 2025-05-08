@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import "tailwindcss"; /* Import Tailwind CSS */
 
 /* Custom Fonts */
 :root {
@@ -6,37 +6,40 @@
   --font-roboto: "Roboto", sans-serif;
 }
 
-/* Global Body Styles */
-body {
-  @apply bg-yellow-100 text-green-800; /* Tailwind's built-in soft yellow + green combo */
-  font-family: var(--font-geist-sans);
-}
+/* Base Layer */
+@layer base {
+  /* Global Body Styles */
+  body {
+    @apply bg-yellow-100 text-green-800; /* Tailwind's built-in soft yellow + green combo */
+    font-family: var(--font-geist-sans);
+  }
 
-/* Headings */
-h1,
-h2,
-h3 {
-  @apply text-green-800;
-  font-family: var(--font-geist-sans);
-}
+  /* Headings */
+  h1,
+  h2,
+  h3 {
+    @apply text-green-800; /* Default heading color */
+    font-family: var(--font-geist-sans);
+  }
 
-/* Links */
-a {
-  @apply text-green-800;
-  font-family: var(--font-roboto);
-}
+  /* Links */
+  a {
+    @apply text-green-800; /* Default link color */
+    font-family: var(--font-roboto);
+  }
 
-a:hover {
-  @apply text-yellow-100;
-}
+  a:hover {
+    @apply text-yellow-100; /* Hover effect for links */
+  }
 
-/* Header/Footer Styles */
-header {
-  @apply bg-yellow-100 text-green-800;
-  font-family: var(--font-geist-sans);
-}
+  /* Header/Footer Styles */
+  header {
+    @apply bg-yellow-100 text-green-800;
+    font-family: var(--font-geist-sans);
+  }
 
-footer {
-  @apply bg-green-800 text-yellow-100;
-  font-family: var(--font-geist-sans);
+  footer {
+    @apply bg-green-800 text-yellow-100;
+    font-family: var(--font-geist-sans);
+  }
 }
