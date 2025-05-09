@@ -78,6 +78,7 @@ const earthScenes = [
     caption:
       "In Thiruverkadu, Devi’s Leela unfolded through: Marulali Sri Thambu Swamigal (1870–1955), Marulali Sri Paramanandham Swamigal (1955–1962), and Marulali Sri Punnyakotti Swamigal (1962–1997).",
   },
+
   {
     src: "/devipuranam/05.jpg",
     caption:
@@ -93,6 +94,7 @@ const earthScenes = [
 export default function DeviSriKarumariPage() {
   return (
     <div className="flex flex-col items-center">
+      {" "}
       {/* Section 1: Devi's Divine Play */}
       <section className="w-full bg-white bg-[url('/home/bg.png')] bg-cover bg-center py-16 px-4">
         <div className="w-full px-4 py-16 text-center">
@@ -147,8 +149,8 @@ export default function DeviSriKarumariPage() {
               failed to recognize Her divine form cloaked in the darkness of
               Kali Yuga. To humble his pride, She reclaimed the Trishul and the
               Death Rope once entrusted to him. In Her infinite compassion, She
-              also bestowed a blessing: that Her devotees would be beyond Yama's
-              reach unless She Herself granted permission.
+              also bestowed a blessing: that Her devotees would be beyond
+              Yama&apos; s reach unless She Herself granted permission.
             </p>
             <p>
               Upon arriving on Earth, Devi incarnated through a celestial maiden
@@ -170,12 +172,12 @@ export default function DeviSriKarumariPage() {
               Karumaari and bestowing upon Herself the sacred name Karumaari.
             </p>
             <p>
-              At that very spot, Devi made a powerful vow: "I shall bless
+              At that very spot, Devi made a powerful vow: &quot;I shall bless
               humanity for twenty-one generations through yogis who meditate and
-              worship Me in the Srividhya tradition." To fulfill this promise,
-              She incarnated yogis to walk among mortals. She guided Sri
-              Paalaiyakumaran Swamigal to the Sri Ellai Kali Amman Temple near
-              the Arulmigu Vedapureeswarar Temple in Vada Thirumaraikadu
+              worship Me in the Srividhya tradition.&quot; To fulfill this
+              promise, She incarnated yogis to walk among mortals. She guided
+              Sri Paalaiyakumaran Swamigal to the Sri Ellai Kali Amman Temple
+              near the Arulmigu Vedapureeswarar Temple in Vada Thirumaraikadu
               (Thiruverkadu), where She again manifested Her divine presence.
             </p>
             <p>
@@ -211,14 +213,14 @@ export default function DeviSriKarumariPage() {
       <div className="w-full px-4 py-16 bg-gradient-to-b from-amber-600 to-amber-800 text-center">
         {/* Video 2 */}
         <h2 className="text-3xl font-bold text-white mt-16">
-          🌟 The Devi's Vow to Incarnate 🌟
+          🌟 The Devi&apos;s Vow to Incarnate 🌟
         </h2>
         <p className="mt-2 text-white mb-8 max-w-4xl mx-auto">
           Alarmed by the arrival of Kali Yuga, the Devas — led by Indra, the
-          Munis, and Yogis — appealed to the Supreme Lord. Guided by the Lord's
-          wisdom, they surrendered unto Mahashakti, the Eternal Mother.
-          Appearing in resplendent form, Devi vowed to incarnate and reveal Her
-          Viswaroopa during the decline of Dharma in this dark age.
+          Munis, and Yogis — appealed to the Supreme Lord. Guided by the
+          Lord&apos;s wisdom, they surrendered unto Mahashakti, the Eternal
+          Mother. Appearing in resplendent form, Devi vowed to incarnate and
+          reveal Her Viswaroopa during the decline of Dharma in this dark age.
         </p>
         <VideoPlayer
           videoId="-bumfS8eFoU"
@@ -226,7 +228,6 @@ export default function DeviSriKarumariPage() {
           altText="The Devas' Appeal to the Supreme Mother"
         />
       </div>
-
       {/* Section 2: Devi's Grace on Earth */}
       <section className="w-full bg-gray-100 bg-[url('/home/bg.png')] bg-cover bg-center py-16 px-4">
         <div className="max-w-5xl mx-auto text-center">
@@ -274,9 +275,9 @@ export default function DeviSriKarumariPage() {
             <strong>Karumaari</strong>.
           </p>
           <p className="italic">
-            "I shall bless humanity for twenty-one generations through yogis who
-            meditate and worship Me in the Srividhya tradition." To fulfill this
-            vow, Devi incarnated yogis such as{" "}
+            &quot;I shall bless humanity for twenty-one generations through
+            yogis who meditate and worship Me in the Srividhya tradition.&quot;
+            To fulfill this vow, Devi incarnated yogis such as{" "}
             <strong>Sri Paalaiyakumaran Swamigal</strong>, guiding him to the
             Sri Ellai Kali Amman Temple in Vada Thirumaraikadu (Thiruverkadu).
             She chose <strong>Sri Thambu Swamigal</strong> to enact Her divine

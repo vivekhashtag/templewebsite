@@ -11,6 +11,7 @@
     </div>
   );
 } */
+
 export default function ContentBlock({ heading, image, children }) {
   return (
     <div className="my-12">

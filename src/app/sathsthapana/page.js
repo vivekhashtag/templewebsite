@@ -63,8 +63,8 @@ export default function TemplePlanPage() {
         <div className="bg-white/90 backdrop-blur-sm rounded-2xl shadow-lg overflow-hidden border border-amber-200">
           <div className="bg-amber-700 p-6">
             <h2 className="text-3xl font-bold text-amber-50 text-center">
-              The sacred confluence (Sangamam) of Hinduism's six primary forms
-              of worship at Thiruvadisoolam
+              The sacred confluence (Sangamam) of Hinduism&apos;s six primary
+              forms of worship at Thiruvadisoolam
             </h2>
           </div>
 
@@ -224,14 +224,14 @@ export default function TemplePlanPage() {
                 Karumaari revealed a divine swaroop to Devi Aga Guha Yogi
                 Punniyakotti Maduraimuthu Swamigal - a form entirely composed of
                 nagas (serpents). This sacred vision was then manifested as a
-                murti for devotees' worship, demonstrating that true surrender
-                to Devi ensures she guides our destiny. This is the only place
-                in creation where Devi manifests fully in naga form, radiating
-                grace and blessings. Devotees of all faiths worship here,
-                seeking her guidance for peaceful lives. Unlike temples offering
-                pariharams (remedies), here Devi grants complete nivarthi
-                (liberation) by absorbing the karma of those who surrender
-                wholeheartedly.
+                murti for devotees&apos; worship, demonstrating that true
+                surrender to Devi ensures she guides our destiny. This is the
+                only place in creation where Devi manifests fully in naga form,
+                radiating grace and blessings. Devotees of all faiths worship
+                here, seeking her guidance for peaceful lives. Unlike temples
+                offering pariharams (remedies), here Devi grants complete
+                nivarthi (liberation) by absorbing the karma of those who
+                surrender wholeheartedly.
               </p>
               <p className="text-lg text-stone-700 mb-6 leading-relaxed">
                 The year 2016 saw the grand consecration (Maha Samprokshanam) of
@@ -289,8 +289,8 @@ export default function TemplePlanPage() {
           <div className="p-8">
             <p className="text-lg text-stone-700 mb-8 leading-relaxed text-center max-w-3xl mx-auto">
               The temple complex honors the powerful Mathika deities, each
-              representing distinct aspects of the Divine Mother's energy and
-              protection:
+              representing distinct aspects of the Divine Mother&apos;s energy
+              and protection:
             </p>
 
             {/* 2x2 Grid */}

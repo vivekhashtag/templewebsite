@@ -117,8 +117,8 @@ export default function SapthaSailjaPage() {
               upon devotees, just as He pledged to Devi Karumaari before Her
               earthly descent. The very hills that cradle His sanctum resonate
               with the fulfillment of that ancient covenant - where the Supreme
-              Mother's chosen abode is eternally graced by the living presence
-              of the Lord in His{" "}
+              Mother&apos;s chosen abode is eternally graced by the living
+              presence of the Lord in His{" "}
               <span className="font-semibold">Aachaavathara</span> forms,
               blessing all who seek refuge at this powerful junction of divine
               energies. This sacred kshethra is reverently known as Sri Sri

@@ -113,7 +113,7 @@ export default function HomePage() {
             planted Her three-leaf-adorned Trishul (Trident) into the earth — a
             symbol of divine presence, protection, and power. Over time, this
             sacred space came to be known as Thiruvadisoolam — a place where the
-            Divine Mother's footprints remain, radiating energy, love, and
+            Divine Mother&apos;s footprints remain, radiating energy, love, and
             blessings to all who step onto this hallowed ground.
           </p>
         </div>
@@ -259,8 +259,8 @@ export default function HomePage() {
                 in the darkness of Kali Yuga. To humble his pride, She reclaimed
                 the <em>Trishul</em> and the Death Rope once entrusted to him.
                 In Her infinite compassion, She also bestowed a blessing: that
-                Her devotees would be beyond Yama's reach unless She Herself
-                granted permission.
+                Her devotees would be beyond Yama&apos;s reach unless She
+                Herself granted permission.
               </p>
               <p className="mb-4">
                 Upon arriving on Earth, Devi incarnated through a celestial

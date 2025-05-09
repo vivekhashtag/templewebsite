@@ -73,7 +73,7 @@ export default function MahakodilinghamPage() {
               The Living Present
             </h2>
             <p className="text-xl text-stone-700 leading-relaxed">
-              By the Divine Mother's command, a radiant Jyothi form of Her
+              By the Divine Mother&apos;s command, a radiant Jyothi form of Her
               consort, Lord Shiva — the embodiment of Supreme Consciousness —
               shall be established above Her sanctified presence, manifesting as
               a towering Shivalingam crafted to radiate divine grace.

@@ -100,7 +100,7 @@ export default function SwayambuDeviPage() {
             </p>
             <p>
               To stand before the Thirupadham is to be enveloped in the Divine
-              Mother's boundless love and sacred energy.
+              Mother&apos;s boundless love and sacred energy.
             </p>
           </div>
           {/* Video 2   <div className="w-full px-4 py-16  text-center">        </div>*/}
@@ -177,8 +177,8 @@ export default function SwayambuDeviPage() {
               footprints.
             </p>
             <p>
-              Through these manifestations, the Devi's timeless energy continues
-              to guide and protect ! 🙏🙏
+              Through these manifestations, the Devi&apos;s timeless energy
+              continues to guide and protect ! 🙏🙏
             </p>
             <p className="text-center">
               Thaye Saranam! Devi Saranam! Thiruvadiye Saranam! 🙏🙏
