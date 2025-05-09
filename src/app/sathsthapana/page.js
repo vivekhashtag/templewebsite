@@ -18,24 +18,24 @@ export default function TemplePlanPage() {
   const mathikaDeities = [
     {
       name: "Devi Shree Vishnu Vana Durga",
-      img: "/sathsthapana/05.jpg",
+      img: "/sathsthapana/durga.jpg",
     },
     {
       name: "Devi Mandira Shree Varahi Amman",
-      img: "/sathsthapana/07.jpg",
+      img: "/sathsthapana/varahi.jpg",
     },
     {
       name: "Devi Shree Prathyangira",
-      img: "/sathsthapana/08.jpg",
+      img: "/sathsthapana/pratyangira.jpg",
     },
     {
       name: "Devi Shree Raja Mathangi",
-      img: "/sathsthapana/06.jpg",
+      img: "/sathsthapana/mathangi.jpg",
     },
   ];
 
   const parivaraDeity = {
-    img: "/sathsthapana/09.jpg",
+    img: "/sathsthapana/bhairavar.jpg",
     name: "Lord Varka Nivarhti Kala Bhairavar",
   };
 
