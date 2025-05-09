@@ -42,12 +42,12 @@ export default function RitualsFestivitiesPage() {
                 },
 
                 {
-                  img: "/templeinfo/khopooja.jpg",
+                  img: "/templeinfo/gopooja.jpg",
                   caption:
                     "Swamiji performing Kho Pooja — a sacred offering of devotion and gratitude to the holy cows, symbolizing reverence for all living beings and the nurturing spirit of Dharma.",
                 },
                 {
-                  img: "/templeinfo/trishul.jpg",
+                  img: "/templeinfo/trishulpooja.jpg",
                   caption:
                     "Swamiji performing Trishul Pooja in the sacred hills where Devi placed Her divine feet — Thirupadham.",
                 },
@@ -159,7 +159,7 @@ export default function RitualsFestivitiesPage() {
                     "Podhupadayal - Unity in Diversity - Devotees from all walks of life come together to offer Podhupadayal - symbolizing Vasudhaiva Kutumbakam.",
                 },
                 {
-                  img: "/templeinfo/sumangali.jpg",
+                  img: "/templeinfo/sumangalipooja.jpg",
                   caption:
                     "Sumangali Pooja - An auspicious ritual seeking the blessings of Devi for family harmony, virtue, and prosperity.",
                 },
