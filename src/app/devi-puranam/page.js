@@ -109,7 +109,7 @@ export default function DeviSriKarumariPage() {
           </p>
           <VideoPlayer
             videoId="MG1JlzMTa9E"
-            thumbnailUrl="/devipuranam/aadhibrahmanayagi.jpg"
+            thumbnailUrl="/devipuranam/aadhibhramanayagi.jpg"
             altText="The Descent of Aadhi Brahma Nayagi in Kali Yuga"
           />{" "}
         </div>
